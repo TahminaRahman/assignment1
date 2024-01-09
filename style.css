@@ -1,0 +1,285 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400&display=swap');
+.section{
+    width: 100%;
+    height: 700px;
+    float: left;
+}
+.blank{
+    width: 7%;
+    height: 600px;
+    float: left;
+}
+.section_2{
+    width: 86%;
+    height: 600px;
+    padding-bottom: 20px;
+    float: left;
+    border-radius: 18px;
+    background-size: cover;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),
+    url(image/Banner\ Image.png);
+    background-repeat: no-repeat;
+}
+.header{
+    width: 632px;
+    height: 400px;
+    display: block;
+    margin: 201px 331px;
+    color: white;
+}
+.text1{
+    color: #FFF;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+.text2{
+    font-size: 70px;
+    padding-left: 100px;
+    margin: 0;
+    font-weight: 900;
+}
+b{
+    margin-left: 50px;
+}
+.blank{
+    width: 7%;
+    height: 600px;
+    float: left;
+}
+.main{
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+.parse .heading{
+    font-size: 48px;
+    font-family: 'Inter', sans-serif;
+}
+span{
+    color: red;
+}
+.para{
+    color: red;
+}
+.party{
+    width: 100%;
+    height: 700px;
+    margin-top: 99px;
+    background-image: url(image/vactor.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.banner{
+    width: 50%;
+    height: 500px;
+    padding: 60px 99px;
+    color: white;
+}
+.banner_content{
+    padding: 128px 72px;
+}
+.banner_greeting{
+    color: white;
+    font-family: Merriweather;
+    font-size: 40px;
+    font-weight: 400;
+}
+.banner_description{
+    color: white;
+    font-family: Merriweather;
+    font-size: 23px;
+    font-weight: 400;
+}
+.btn, button{
+    width: 20%;
+    height: 40px;
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    border: 2px solid whitesmoke;
+}
+.profile_pic{
+    display: flex;
+    justify-content: right;
+    width: 30%;
+    height: 495px;
+    background-image: url(image/Group70.png);
+    background-repeat: no-repeat;
+    float: right;
+    margin: 129px 94px;
+}
+/* date_and_time starting */
+.date_and_time{
+    width: 100%;
+    height: 207px;
+    float: left; 
+    border-radius: 2%;
+}
+.blank{
+    width: 7%;
+    height: 207px;
+    float: left;
+}
+.new_park{
+    width: 85%;
+    height: 259px;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    padding: 35px 1px 44px 0px;
+    margin-bottom: 0px auto;
+    display: block;
+    text-align: center;
+    float: left;
+    border-radius: 18px;
+    color: black ;  
+}
+.btn_1{
+    width: 10%;
+}
+.blank{
+    width: 7%;
+    height: 207px;
+    float: left;
+}
+/* date_and_time ending */
+/* celebrate starting */
+.celebra{
+    width: 80%;
+    height: 300px;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    display: flex;
+    justify-content: right;
+    float: left;
+    border-radius: 20px;
+    margin: 32px 154px;
+}
+.parsent_1{
+    width: 40%;
+    height: 200px;
+}
+.title_1{
+    font-size: 30px;
+    padding-left: 143px;
+    padding-top: 28px;
+}
+.par_1{
+    font-size: 50px;
+    margin-left: 130px;
+    margin-top: -45px
+}
+.par_2{
+    font-size: 18px;
+    margin-left: 96px;
+    margin-top: -18px;
+}
+
+.parsent_2{
+    width: 40%;
+    height: 200px;
+}
+.bl{
+    width: 53%;
+    margin-left: 100px;
+    margin-top: 81px;
+}
+.parsent_3{
+    width: 20%;
+    height: 200px;
+    margin-right: 110px;
+    margin-top: 50px;
+}
+/* celebrat ending */
+/* offer relatel starting */
+.head_1{
+    margin-top: 149px;
+}
+.bang_1{
+width: 100%;
+height: 300px;
+}
+.content_sec{
+    width: 100%;
+    height: 200px;
+    font-size: 20px;
+    font-family: 'Merriweather', serif;
+    background-color: red;
+}
+.headency_1{
+    font-size: 23px;
+    font-family: 'Merriweather', serif;
+}
+
+.holy_1{
+    width: 100%;
+    height: 700px;
+    margin-top: 151px;
+}
+.bla_1{
+    width: 86%;
+    height: 700px;
+    float: left;
+    margin-top: 151px;
+}
+.product_section{
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    float: left;
+}
+.product_section,.product_img{
+    width: 424px;
+    height: 450px;
+    float: left;
+    gap: 20px;
+}
+.product_11{
+    box-shadow: 0 0 20px 2px rgb(0, 0, 0, .1);
+    transition: 1s;
+}
+.product_11:hover{
+    transform: scale(1.3);
+    z-index: 2;
+}
+.bng, .clos{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.space{
+    width: 7%;
+    height: 700px;
+    float: left;
+    margin-top: 151px;    
+}
+.space{
+    width: 7%;
+    height: 500px;
+    float: left;
+    margin-top: 337px;
+}
+/* contact start */
+.contact_4{
+    width: 80%;
+    height: 367px;
+    background: bisque;
+    float: left;
+    margin: 457px 134px;
+    border-radius: 18px;
+}
+.subscript{
+    display: block;
+    text-align: center;
+}
+input{
+    width: 50%;
+    height: 30px;
+    border: 2px solid #808080;
+    border-radius: 16px;
+}
+
+
